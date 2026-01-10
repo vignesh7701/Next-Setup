@@ -30,6 +30,8 @@ npm-debug.log*
 .env*
 
 .vercel
+GEMINI.md
+ss/
 
 # typescript
 *.tsbuildinfo
